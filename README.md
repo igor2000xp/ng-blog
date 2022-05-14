@@ -1,5 +1,5 @@
 # Frontend
-
+[Ссылка на деплой](https://github.com/igor2000xp/ng-blog/tree/0.0.5)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
 ## Development server
